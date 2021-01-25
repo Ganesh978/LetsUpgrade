@@ -20,3 +20,15 @@ ASSIGNMENT 2
 Question 2 Output
 
 ![Screenshot 2021-01-23 105820](https://user-images.githubusercontent.com/61191750/105569736-3b6f5280-5d6a-11eb-9840-032e50a1b76b.png)
+
+
+ASSIGNMENT 3
+Question 1 Output
+
+![Screenshot 2021-01-25 102929](https://user-images.githubusercontent.com/61191750/105663488-65567f80-5ef8-11eb-9204-422d2e00ec8e.png)
+
+
+ASSIGNMENT 3 
+Question 2 Output
+
+![Screenshot 2021-01-25 103013](https://user-images.githubusercontent.com/61191750/105663579-99ca3b80-5ef8-11eb-8567-176e926777ac.png)
