@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="">
+	<title>Basics of JavaScript</title>
+</head>
+<body>
+	<h1>Learn JavaScript</h1>
+		The ways we can access elements in the DOM<br>
+      <strong>Way-1(id)
+      <h2>const name = document.getElementById("name");</h2>
+      console.log(name);
+        When we should access any HTML element using the method called getElementById(), 
+      An ID must always be unique to the page,and therefore we will only ever be able to access 
+      a single element at a time with the getElementById() method. <br> 
+      
+
+      <strong><h3>Way-2(Accessing Elements by Class)</h3>
+      <h2>const main = document.getElementsByClassName("main");</h2>
+      console.log(main);
+       The class attribute is used to access one or more specific elements in the DOM.
+       So this we need to linked class attribute with value with that element which we would to access.
+       This  getElementsByClassName() method return all the elements with a given class name 
+        (a collection (an array) of HTML elements)
+        Here , We can perform array operation and properties for manipulation. <br>
+
+      <strong><h3>Way-3(Accessing Elements by Tag)</h3>
+
+      <h2>const tagname = document.getElementsByTagName("h3");</h2>
+      console.log(tagname);
+      We can uses this approach to get all the html elements having same html tag name , Hence it returns 
+       collection (an array) of HTML elements .So here we can also perform array operation and properties for manipulation<br>
+
+      <strong><h3>Way-4(Accessing Elements by Query Selectors.)</h3>
+      <h2>const demo1query = document.querySelector(".demo1");</h2>
+      console.log(demo1query);
+ 
+      To access a single element, we will use the querySelector() method , on basis of argument .
+      Argument would be Id or class name (with their access sign (id-># , class-> . ))linked with HTML element 
+       querySelector() returns a single object with the first HTML element that matches the 'selectors'
+      const demo2query = document.querySelectorAll(".demo2");
+      console.log(demo2query);
+</body>
+</html>
