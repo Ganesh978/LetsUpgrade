@@ -32,3 +32,16 @@ ASSIGNMENT 3
 Question 2 Output
 
 ![Screenshot 2021-01-25 103013](https://user-images.githubusercontent.com/61191750/105663579-99ca3b80-5ef8-11eb-8567-176e926777ac.png)
+
+
+ASSIGNMENT 4
+Question 1 Output
+
+![Screenshot 2021-01-26 201445](https://user-images.githubusercontent.com/61191750/105860124-439deb00-6013-11eb-886e-afba77ff4e48.png)
+
+
+ASSIGNMENT 4
+Question 2 Output
+
+![Screenshot 2021-01-26 201445](https://user-images.githubusercontent.com/61191750/105860124-439deb00-6013-11eb-886e-afba77ff4e48.png)
+
