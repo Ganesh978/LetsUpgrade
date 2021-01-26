@@ -43,5 +43,5 @@ Question 1 Output
 ASSIGNMENT 4
 Question 2 Output
 
-![Screenshot 2021-01-26 201445](https://user-images.githubusercontent.com/61191750/105860124-439deb00-6013-11eb-886e-afba77ff4e48.png)
+![Screenshot 2021-01-26 201506](https://user-images.githubusercontent.com/61191750/105860592-beff9c80-6013-11eb-90c9-b68a8caae9ca.png)
 
